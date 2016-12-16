@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: zhengxbi
     # duoshuo: 
     
 # Social
@@ -40,6 +40,7 @@ social:
     weibo: zhengxiaobi
     github: zhengxbi
     mail: zhengxbieffort@163.com
+    zhihu: zhengxiaobi
 
 # Google Analytics
 ga:
